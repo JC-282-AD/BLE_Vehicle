@@ -1,0 +1,34 @@
+/home/jcai/Workspace/msdk/Examples/MAX32655/Bluetooth/BLE_Vehicle/build/heap.o: \
+ /home/jcai/Workspace/msdk/Libraries/CMSIS/Device/Maxim/MAX32655/Source/heap.c \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/features.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_newlib_version.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_intsup.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_stdint.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/errno.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/errno.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/reent.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_ansi.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/newlib.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/config.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/ieeefp.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_types.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_types.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/lock.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/unistd.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/unistd.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/cdefs.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/types.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/endian.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_endian.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/select.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_sigset.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_timeval.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/timespec.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_timespec.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_pthreadtypes.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/sched.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/types.h

@@ -1,0 +1,32 @@
+/home/jcai/Workspace/msdk/Examples/MAX32655/Bluetooth/BLE_Vehicle/build/init.o: \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/controller/sources/ble/init/init.c \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/controller/include/ble/ll_init_api.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/wsf_types.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/features.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_newlib_version.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_intsup.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_stdint.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/controller/include/common/bb_api.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/controller/include/common/cfg_mac.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/platform/include/pal_bb.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/platform/include/pal_types.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/controller/include/ble/ll_api.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/wsf_os.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/wsf_types.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/wsf_queue.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/util/bda.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/controller/include/common/cfg_mac_ble.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/ll_defs.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/controller/include/ble/bb_ble_api.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/platform/include/pal_bb_ble.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/platform/include/pal_bb.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/platform/include/pal_crypto.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/platform/include/pal_radio.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/controller/include/common/sch_api.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/controller/include/common/bb_api.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/controller/include/ble/bb_ble_sniffer_api.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/controller/include/ble/bb_ble_api.h

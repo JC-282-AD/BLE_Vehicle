@@ -1,0 +1,22 @@
+/home/jcai/Workspace/msdk/Examples/MAX32655/Bluetooth/BLE_Vehicle/build/wsf_trace.o: \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/sources/targets/baremetal/wsf_trace.c \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/wsf_types.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/features.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_newlib_version.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_intsup.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_stdint.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/wsf_trace.h \
+ /home/jcai/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/wsf_types.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/wsf_bufio.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/wsf_buf.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/util/print.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/platform/include/pal_sys.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/platform/include/pal_types.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/wsf_assert.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/wsf_trace.h \
+ /home/jcai/Workspace/msdk/Libraries/Cordio/wsf/include/wsf_cs.h
