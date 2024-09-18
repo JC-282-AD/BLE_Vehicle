@@ -23,7 +23,7 @@ class VehicleDashboard(QWidget):
         layout.addWidget(self.speed_display)
 
         # Acceleration X and Z Axis (Vertical Split)
-        self.accel_label = QLabel("Acceleration (m/s²):")
+        self.accel_label = QLabel("Acceleration (G):")
         self.accel_label.setFont(font)
         layout.addWidget(self.accel_label)
 
