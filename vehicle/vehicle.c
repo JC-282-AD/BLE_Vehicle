@@ -138,12 +138,12 @@ MyVehicle vehicle = {
 
 wsfHandlerId_t spdTimerHandlerId;
 wsfTimer_t spdTimer;
-int16_t wheelDiff = -1;
+//int16_t wheelDiff = -1;
 
 
 void spdTimerHandlerCB(wsfEventMask_t event, wsfMsgHdr_t *pMsg)
 {
-    /*
+    
     // variable for PID wheel diff
     int16_t wheelDiff = 0;
 
@@ -154,9 +154,9 @@ void spdTimerHandlerCB(wsfEventMask_t event, wsfMsgHdr_t *pMsg)
 
     if (vehicle.movement == BACKWARD)
     {
-        wheelDiff = +1;
+        wheelDiff = 1;
     }
-*/
+
     unsigned int periodTicksL = MXC_TMR_GetPeriod(PWM_TIMER_LEFT, PWM_CLOCK_SOURCE, 16, FREQ);
     unsigned int periodTicksR = MXC_TMR_GetPeriod(PWM_TIMER_RIGHT, PWM_CLOCK_SOURCE, 16, FREQ);
     unsigned int dutyTicksL;
@@ -205,7 +205,7 @@ void spdTimerHandlerCB(wsfEventMask_t event, wsfMsgHdr_t *pMsg)
 /*************************************************************************************************/
 static void PWMTimer(void)
 {
-    /*
+    
         // variable for PID wheel diff
     int16_t wheelDiff = 0;
 
@@ -216,9 +216,9 @@ static void PWMTimer(void)
 
     if (vehicle.movement == BACKWARD)
     {
-        wheelDiff = +1;
+        wheelDiff = 1;
     }
-*/
+
     // Declare variables
     mxc_tmr_cfg_t tmrL; // to configure timer
     mxc_tmr_cfg_t tmrR; // to configure timer
